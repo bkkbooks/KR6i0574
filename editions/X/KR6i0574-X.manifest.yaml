@@ -1,0 +1,244 @@
+canonical_identifier: bkk:krp/KR6i0574/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0574/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圓覺經析義疏
+  identifiers:
+    krp: KR6i0574
+    cbeta: X10n0263
+    cbeta_old_id: X10n0263
+    authorityid: CA0003887
+    json_key: X0263
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X10/X10n0263.xml
+    old_id: X10n0263
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0574_000-X.yaml, hash: 'sha256:f3ef36443a02db4f79d298bd09d7f04802d4d97af609142f22a71b2263c587ee'}
+  - {seq: 1, filename: KR6i0574_001-X.yaml, hash: 'sha256:f7389e50e32f64f6714e2e099c64f5f6a2749e7c9be45e0a6ef09f6628dd57ac'}
+  - {seq: 2, filename: KR6i0574_002-X.yaml, hash: 'sha256:bbe4e4cbe2e821f0f5cba5bf77efe7e528c3b0734524bca64f0c5f485ff0be2e'}
+  - {seq: 3, filename: KR6i0574_003-X.yaml, hash: 'sha256:61ffb6d4b531a5658b543531ec70c2679e87ee44d4535fd3d0c96b74f295b5c7'}
+  - {seq: 4, filename: KR6i0574_004-X.yaml, hash: 'sha256:a52f04849d94a6cbf35fa953bb5ba247251660631c82b46522377da45e047115'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0574_000-X.markers.yaml, hash: 'sha256:e81d1c8d797d993d5842b2acf6de3c626e0b29ed55a5473eff57e81873317124'}
+  - {seq: 1, role: markers, filename: assets/KR6i0574_001-X.markers.yaml, hash: 'sha256:a2212112a373e3f2dce11a32d48f3ee933fc7e1accc2599cc93e53c5b3c1f091'}
+  - {seq: 2, role: markers, filename: assets/KR6i0574_002-X.markers.yaml, hash: 'sha256:c23fded9c5f8b9cb5bd05a1d3b656a2667963b80f381bdc62416dd060f916116'}
+  - {seq: 3, role: markers, filename: assets/KR6i0574_003-X.markers.yaml, hash: 'sha256:8b44ff091074dc1ab9f8fe64ed01f3ee9ee5581df505594b44e0ba3d6ee3647f'}
+  - {seq: 4, role: markers, filename: assets/KR6i0574_004-X.markers.yaml, hash: 'sha256:f0ed221941ecfd06bd0e55a2f044173a61e7e73bdd0cdee5f7c42b812ea7d1b8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 263-A 圓覺經析義疏大義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-2
+    span:
+    - front
+    - 4925
+    - 4925
+  label: No. 263-B 圓覺經析義疏懸示
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-3
+    span:
+    - front
+    - 5066
+    - 5066
+  label: 第一教起因緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-4
+    span:
+    - front
+    - 7313
+    - 7313
+  label: 第二藏乘分攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-5
+    span:
+    - front
+    - 9379
+    - 9379
+  label: 第三能被教義
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-6
+    span:
+    - front
+    - 10636
+    - 10636
+  label: 第四所被機宜
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-7
+    span:
+    - front
+    - 11512
+    - 11512
+  label: 第五體性淺深
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-8
+    span:
+    - front
+    - 12952
+    - 12952
+  label: 第六宗趣通別
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-9
+    span:
+    - front
+    - 13920
+    - 13920
+  label: 第七傳譯紀略
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-10
+    span:
+    - front
+    - 14174
+    - 14174
+  label: 第八註釋倡先
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0574_X_000-mulu-11
+    span:
+    - front
+    - 14900
+    - 14900
+  label: 圓覺經析義疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0574_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12609
+  label: 圓覺經析義疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0574_X_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 第九總釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0574_X_001-mulu-2
+    span:
+    - body
+    - 2272
+    - 2272
+  label: 第十別解文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0574_X_001-mulu-3
+    span:
+    - body
+    - 2360
+    - 2360
+  label: 敘分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0574_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 23755
+  label: 圓覺經析義疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0574_X_002-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0574_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 24923
+  label: 圓覺經析義疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0574_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 25784
+  label: 圓覺經析義疏卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0574_X_004-mulu-1
+    span:
+    - body
+    - 20334
+    - 20334
+  label: 流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0574_X_004-mulu-2
+    span:
+    - body
+    - 25618
+    - 25618
+  label: No. 263-C
+  type: mulu
+  level: 1
+hash: sha256:e3748570801935eac2f4d2e8e5e307fed5cbe8e59f45eccdd8731c8a763f4be6
