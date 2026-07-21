@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0574_000.yaml, hash: 'sha256:602bcb7d8cbdc076d015cbcfb85214c5002f3af11ef6193101afb241b2ca4db6'}
+  - {seq: 0, filename: KR6i0574_000.yaml, hash: 'sha256:66b6a6f1202a1b7b972c108e2f3538b90ea006c03a3ad4ed763c5cd3652ea139'}
   - {seq: 1, filename: KR6i0574_001.yaml, hash: 'sha256:268251b59e7df4f8f9e62ca0d2d79bb07c85f538e5e992804894fdbb69cd2d18'}
   - {seq: 2, filename: KR6i0574_002.yaml, hash: 'sha256:8af10a1e70055cdc9cea678ca25b251664404dd1d301505cab06b2b2eae1546c'}
   - {seq: 3, filename: KR6i0574_003.yaml, hash: 'sha256:5d0dd96619e5b69f0568211ab2f88327bf0122afac844a2356b6271abe94b337'}
   - {seq: 4, filename: KR6i0574_004.yaml, hash: 'sha256:c3c1175405a61227d0d22415f4181701dfcf5c9edaa351d5c083ced7682d07f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0574_000.markers.yaml, hash: 'sha256:44e3365345a895ed53f026f49dee54f7a31d1f9480baf0ae75974d9864e6a5e4'}
+  - {seq: 0, role: markers, filename: assets/KR6i0574_000.markers.yaml, hash: 'sha256:b6c61fe33d7b7e76706f825bb6690e3bf90b90241ad8b21ce3cc92568dd598b0'}
   - {seq: 1, role: markers, filename: assets/KR6i0574_001.markers.yaml, hash: 'sha256:fba1be869d6d5fcad132c04787f694c2861871c52fc01d05d7883484ca83252e'}
   - {seq: 2, role: markers, filename: assets/KR6i0574_002.markers.yaml, hash: 'sha256:08a29004c516718cfc6fc47eba782368721f5fe800343359c4e8ea8364a6c8d0'}
   - {seq: 3, role: markers, filename: assets/KR6i0574_003.markers.yaml, hash: 'sha256:1a9dda2cffc2deb0a63167085d0ff44edbc31cd1f76b0f8b0ed589300a6d9550'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 263-A 圓覺經析義疏大義
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-2
     span:
-    - front
+    - body
     - 4925
     - 4925
   label: No. 263-B 圓覺經析義疏懸示
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-3
     span:
-    - front
+    - body
     - 5066
     - 5066
   label: 第一教起因緣
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-4
     span:
-    - front
+    - body
     - 7313
     - 7313
   label: 第二藏乘分攝
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-5
     span:
-    - front
+    - body
     - 9379
     - 9379
   label: 第三能被教義
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-6
     span:
-    - front
+    - body
     - 10636
     - 10636
   label: 第四所被機宜
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-7
     span:
-    - front
+    - body
     - 11512
     - 11512
   label: 第五體性淺深
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-8
     span:
-    - front
+    - body
     - 12952
     - 12952
   label: 第六宗趣通別
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-9
     span:
-    - front
+    - body
     - 13920
     - 13920
   label: 第七傳譯紀略
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-10
     span:
-    - front
+    - body
     - 14174
     - 14174
   label: 第八註釋倡先
@@ -137,7 +137,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0574_X_000-mulu-11
     span:
-    - front
+    - body
     - 14900
     - 14900
   label: 圓覺經析義疏
@@ -243,7 +243,7 @@ table_of_contents:
   label: No. 263-C
   type: mulu
   level: 1
-hash: sha256:cdfde880c5a01ca192420de6ade41d296a631c352a45bca421c9c7ddeb49a233
+hash: sha256:a2e3462c75b8a01821e1012317c28159eb503ee13052271765c15864e3051546
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
